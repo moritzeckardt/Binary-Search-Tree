@@ -1,5 +1,3 @@
-// Namen: Paul Rodemers 22573550, Moritz Eckardt 22878595
-
 import java.util.List;
 import java.util.NoSuchElementException;
 
